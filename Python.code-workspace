@@ -1,0 +1,76 @@
+{
+    "folders": [
+        {
+            "path": "..\\Experiments\\Workspace sorter"
+        },
+        {
+            "path": "..\\Projects\\Executers"
+        },
+        {
+            "path": "..\\Projects\\Flask-REST-API"
+        },
+        {
+            "path": "..\\Projects\\Project-Initiator"
+        },
+        {
+            "path": "..\\Projects\\Python\\CSS Formatter"
+        },
+        {
+            "path": "..\\Projects\\Python\\Csv To Gui"
+        },
+        {
+            "path": "..\\Projects\\Python\\Django"
+        },
+        {
+            "path": "..\\Projects\\Python\\Invertdict"
+        },
+        {
+            "path": "..\\Projects\\Python\\Json Formatter"
+        },
+        {
+            "path": "..\\Projects\\Python\\Link Formatter"
+        },
+        {
+            "path": "..\\Projects\\Python\\Project"
+        },
+        {
+            "path": "..\\Projects\\Python\\Update"
+        },
+        {
+            "path": "..\\Projects\\sorting_file_content"
+        },
+        {
+            "path": "..\\Projects\\virtual-assistant"
+        },
+        {
+            "path": "C:\\Users\\kingt\\Documents\\Test"
+        },
+        {
+            "path": "C:\\Users\\kingt\\Downloads\\New folder\\New folder"
+        }
+    ],
+    "settings": {
+        "python.analysis.completeFunctionParens": true,
+        "python.autoComplete.addBrackets": true,
+        "python.languageServer": "Pylance",
+        "python.testing.nosetestsEnabled": false,
+        "python.testing.promptToConfigure": false,
+        "python.testing.pytestEnabled": false,
+        "python.testing.unittestEnabled": false,
+        "cSpell.words": [
+            "chdir",
+            "fftpack",
+            "genfromtxt",
+            "isdigit",
+            "organisation",
+            "Popen",
+            "pymongo",
+            "pyplot",
+            "scipy",
+            "sharey",
+            "werkzeug"
+        ],
+        "editor.defaultFormatter": "ms-python.python",
+        "python.defaultInterpreterPath": "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe"
+    }
+}

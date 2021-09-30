@@ -1,0 +1,40 @@
+{
+    "folders": [
+        {
+            "path": "..\\Projects\\Api-Template"
+        },
+        {
+            "path": "..\\Projects\\Bazaar-Ceramics"
+        },
+        {
+            "path": "..\\Projects\\Nursing-Provider-System"
+        },
+        {
+            "path": "..\\Projects\\cake_shop_backend"
+        },
+        {
+            "path": "..\\Projects\\laravel-sanctum-api"
+        },
+        {
+            "path": "..\\Projects\\laravel-socialite"
+        },
+        {
+            "path": "..\\Projects\\paytm_php_flutter\\Php"
+        },
+        {
+            "path": "..\\Projects\\posty"
+        },
+        {
+            "path": "..\\TechMET Solutions\\soft-ui-cakeshop"
+        }
+    ],
+    "settings": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+        "cSpell.words": [
+            "Authenticatable"
+        ],
+        "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+        "php.validate.enable": true,
+        "php.validate.run": "onType"
+    }
+}

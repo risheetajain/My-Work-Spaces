@@ -1,0 +1,31 @@
+{
+    "folders": [
+        {
+            "path": "..\\Projects\\boutique"
+        },
+        {
+            "path": "..\\Projects\\mern-share-note"
+        },
+        {
+            "path": "..\\Projects\\petful-client"
+        },
+        {
+            "path": "..\\Projects\\portfolio-builder-client"
+        },
+        {
+            "path": "..\\Projects\\read-n-watch-later-store"
+        },
+        {
+            "path": "..\\Projects\\units-react-with-auth"
+        }
+    ],
+    "settings": {
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        },
+        "cSpell.words": [
+            "mern",
+            "petful"
+        ]
+    }
+}

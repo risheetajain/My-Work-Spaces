@@ -1,0 +1,43 @@
+{
+    "folders": [
+        {
+            "path": "..\\Experiments\\node_server"
+        },
+        {
+            "path": "..\\Projects\\bookmark-store"
+        },
+        {
+            "path": "..\\Projects\\mern-share-note"
+        },
+        {
+            "path": "..\\Projects\\node-express-elementals-game"
+        },
+        {
+            "path": "..\\Projects\\node-express-mind-game"
+        },
+        {
+            "path": "..\\Projects\\petful-api"
+        },
+        {
+            "path": "..\\Projects\\petful-client"
+        },
+        {
+            "path": "..\\Projects\\portfolio-builder-api"
+        },
+        {
+            "path": "..\\Projects\\portfolio-builder-client"
+        },
+        {
+            "path": "..\\Projects\\read-n-watch-later-store"
+        },
+        {
+            "path": "..\\Projects\\typing-master"
+        },
+        {
+            "path": "..\\Projects\\units-react-with-auth"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "typing-master"
+    }
+}

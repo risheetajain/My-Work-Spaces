@@ -1,0 +1,42 @@
+{
+    "folders": [
+        {
+            "path": "..\\Freelancing\\Tution\\Osas\\Web Programming"
+        },
+        {
+            "path": "..\\King Technologies\\kingtechnologies.in"
+        },
+        {
+            "path": "..\\Projects\\DragNDropJS"
+        },
+        {
+            "path": "..\\Projects\\Methi-s-Collection"
+        },
+        {
+            "path": "..\\Projects\\Methi-s-Collection-Admin"
+        },
+        {
+            "path": "..\\Projects\\PWA-Template"
+        },
+        {
+            "path": "..\\Projects\\Web-Projects"
+        },
+        {
+            "path": "..\\Projects\\Web-Projects\\Bootstrap-Template"
+        }
+    ],
+    "settings": {
+        "[javascript]": {
+            "editor.defaultFormatter": "vscode.typescript-language-features"
+        },
+        "cSpell.words": [
+            "draggable",
+            "draggables",
+            "esversion"
+        ],
+        "[html]": {
+            "editor.defaultFormatter": "vscode.html-language-features"
+        },
+        "liveServer.settings.multiRootWorkspaceName": "Web-Projects"
+    }
+}

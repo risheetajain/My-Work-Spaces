@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "..\\Projects\\angular-crash"
+        },
+        {
+            "path": "..\\Projects\\angularapp"
+        },
+        {
+            "path": "..\\Projects\\my-first-app"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "computer_solutions_angularjs",
+        "cSpell.words": [
+            "angularapp",
+            "angularjs"
+        ]
+    }
+}

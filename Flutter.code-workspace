@@ -1,0 +1,114 @@
+{
+    "folders": [
+        {
+            "path": "..\\Projects\\Acade Mind Course\\meals_app"
+        },
+        {
+            "path": "..\\Projects\\Kings-Clock\\kings_clock"
+        },
+        {
+            "path": "..\\Projects\\Save-You\\save_you"
+        },
+        {
+            "path": "..\\Projects\\flutter_book"
+        },
+        {
+            "path": "..\\Projects\\flutter_experiments"
+        },
+        {
+            "path": "..\\Projects\\flutter_firebase_phoneauth"
+        },
+        {
+            "path": "..\\Projects\\flutter_firebase_storage"
+        },
+        {
+            "path": "..\\Projects\\flutter_google_auth"
+        },
+        {
+            "path": "..\\Projects\\flutter_payment_gateway"
+        },
+        {
+            "path": "..\\Projects\\flutter_textbelt"
+        },
+        {
+            "path": "..\\Projects\\kings_clock_2"
+        },
+        {
+            "path": "..\\Projects\\kings_note"
+        },
+        {
+            "path": "..\\Projects\\otp_2factor"
+        },
+        {
+            "path": "..\\Projects\\paytm_php_flutter"
+        },
+        {
+            "path": "..\\Projects\\shops_state_management"
+        },
+        {
+            "path": "..\\Projects\\skype_clone"
+        },
+        {
+            "path": "..\\TechMET Solutions\\cake_shop"
+        },
+        {
+            "path": "..\\TechMET Solutions\\lovin"
+        },
+        {
+            "path": "..\\TechMET Solutions\\number_blast"
+        }
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+        "dart.previewVsCodeTestRunner": true,
+        "dart.flutterStructuredErrors": true,
+        "dart.showTodos": true,
+        "editor.formatOnType": true,
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        "dart.debugSdkLibraries": false,
+        "dart.devToolsBrowser": "default",
+        "dart.enableCompletionCommitCharacters": true,
+        "dart.flutterCreateOffline": true,
+        "dart.flutterCreateOrganization": "dev.kingtech",
+        "dart.flutterShowEmulators": "always",
+        "dart.hotReloadProgress": "statusBar",
+        "dart.openDevTools": "always",
+        "dart.previewFlutterUiGuides": true,
+        "dart.previewFlutterUiGuidesCustomTracking": true,
+        "dart.previewHotReloadOnSaveWatcher": true,
+        "dart.previewLsp": true,
+        "dart.triggerSignatureHelpAutomatically": true,
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "cSpell.words": [
+            "Dialog",
+            "Lato",
+            "RGBO",
+            "Raleway",
+            "Rect",
+            "Roboto",
+            "Schyler",
+            "Trajan",
+            "autofocus",
+            "cupertino",
+            "firestore",
+            "fltr",
+            "fluttertoast",
+            "lovin",
+            "phoneauth",
+            "razorpay",
+            "textbelt",
+            "vsync",
+            "wakelock"
+        ],
+        "dart.allowTestsOutsideTestFolder": true
+    },
+    "extensions": {
+        "recommendations": [
+            "dart-code.dart-code"
+        ]
+    }
+}

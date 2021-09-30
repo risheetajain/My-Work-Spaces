@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "..\\Freelancing\\Tution\\Osas"
+        }
+    ],
+    "settings": {
+        "java.errors.incompleteClasspath.severity": "ignore",
+        "java.configuration.checkProjectSettingsExclusions": false,
+        "java.project.sourcePaths": []
+    }
+}
