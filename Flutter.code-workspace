@@ -59,16 +59,21 @@
         }
     ],
     "settings": {
+        "editor.codeActionsOnSave": {
+            "source.sortImports": true,
+            "source.fixAll": true,
+            "source.organizeImports": true
+        },
         "editor.formatOnSave": true,
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
         "dart.previewVsCodeTestRunner": true,
         "dart.flutterStructuredErrors": true,
         "dart.showTodos": true,
         "editor.formatOnType": true,
-        "editor.selectionHighlight": false,
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false,
         "dart.debugSdkLibraries": false,
         "dart.devToolsBrowser": "default",
         "dart.enableCompletionCommitCharacters": true,
